@@ -96,6 +96,8 @@
 └── stopwatch-script/ (optional)
 📬 Contact
 Created by **Suresh Kumar Thulasi Ram**  
-🔗 [LinkedIn](https://www.linkedin.com/in/sureshkumarthulasiram3007) | 🔗 [Devpost](https://www.devpost.com/thulasiramsureshkumar) | 🌐 [sureshwizard.com](https://www.sureshwizard.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/sureshkumarthulasiram3007)  
+🔗 [Devpost](https://www.devpost.com/thulasiramsureshkumar)  
+🌐 [sureshwizard.com](https://www.sureshwizard.com)
 
 🧠 Designed to convert. Built to win.
